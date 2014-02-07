@@ -48,7 +48,13 @@
         <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="14" selection-start="457" selection-end="457" vertical-scroll-proportion="-11.5" vertical-offset="143" max-vertical-offset="544">
-              <folding />
+              <folding>
+                <marker date="1391685100616" expanded="true" signature="2:54" placeholder="..." />
+                <marker date="1391685100616" expanded="true" signature="59:109" placeholder="..." />
+                <marker date="1391685100616" expanded="true" signature="196:278" placeholder="..." />
+                <marker date="1391685100616" expanded="true" signature="286:357" placeholder="..." />
+                <marker date="1391685100616" expanded="true" signature="365:396" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -583,7 +589,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="664" y="57" width="796" height="681" extended-state="1" />
+    <frame x="664" y="57" width="796" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -761,7 +767,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="14" selection-start="457" selection-end="457" vertical-scroll-proportion="-11.5" vertical-offset="143" max-vertical-offset="544">
-          <folding />
+          <folding>
+            <marker date="1391685100616" expanded="true" signature="2:54" placeholder="..." />
+            <marker date="1391685100616" expanded="true" signature="59:109" placeholder="..." />
+            <marker date="1391685100616" expanded="true" signature="196:278" placeholder="..." />
+            <marker date="1391685100616" expanded="true" signature="286:357" placeholder="..." />
+            <marker date="1391685100616" expanded="true" signature="365:396" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
